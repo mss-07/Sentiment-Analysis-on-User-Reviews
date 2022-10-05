@@ -1,1 +1,1 @@
-# Sentiment Analysis on Mobile Reviews
+# The repo contains code files on preprocessing and classification of data
